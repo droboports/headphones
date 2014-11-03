@@ -1,0 +1,3 @@
+[General]
+http_port = 8084
+git_path = "/mnt/DroboFS/Shares/DroboApps/git/bin/git"
