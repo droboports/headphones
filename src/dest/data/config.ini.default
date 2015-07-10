@@ -1,3 +1,6 @@
 [General]
-http_port = 8084
+http_host = 0.0.0.0
+http_port = 8181
+log_dir = /tmp/DroboApps/headphones
+launch_browser = 0
 git_path = "/mnt/DroboFS/Shares/DroboApps/git/bin/git"
